@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "title": "Go for a Jog",
+      "description": "6am",
+      "userId": "107938346853334077647",
+      "id": 1
+    },
+    {
+      "title": "Hit the Gym",
+      "description": "7.30am",
+      "userId": "107938346853334077647",
+      "id": 2
+    },
+    {
+      "title": "Go to college",
+      "description": "9am",
+      "userId": "107938346853334077647",
+      "id": 3
+    }
+  ]
+}
